@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leonardo Nogueira 😎💡
 
-- 🔭 Estudante de Ciência da Computação (Faculdade Anhanguera)
+- 📚 Estudante de Ciência da Computação (Faculdade Anhanguera)
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas (Faculdade Anhanguera)
 
  <div style="display: inline_block"><br>
